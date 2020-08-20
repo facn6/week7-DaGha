@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/facn6/week7-DaGha#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "cookie-parser": "^1.4.4",
     "cookies": "^0.7.3",
     "dotenv": "^8.1.0",
